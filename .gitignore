@@ -1,3 +1,7 @@
 video_analysis_frames/
 video2_analysis_frames/
 .netlify_publish/
+.netlify/
+
+# Local Netlify folder
+.netlify
